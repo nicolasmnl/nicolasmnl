@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋</h1>
-I'm Nícolas, a Computer Science undergradutate student at UFCG, and currently working as a Data Scientist and AI Developer ad NeoPTO Propriedade Imaterial
+I'm Nícolas, a Computer Science undergradutate student at UFCG, and currently working as a developer(Clojure and react) student at NuFuturo, a project between NuBank and UFCG
 
-- 🌱 I’m currently learning more about **Data Science, MongoDB, NLP, AI, Blockchain, and much more**
+- 🌱 I’m currently learning more about **Data Science, MongoDB, NLP, AI, Blockchain, Development, and much more**
 
 - 📫 How to reach me: **nicolas.leite@ccc.ufcg.edu.br**
 
