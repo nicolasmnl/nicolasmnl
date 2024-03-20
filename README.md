@@ -1,11 +1,11 @@
 <h1 align="center">Hello there 👋</h1>
-I'm Nícolas, a Computer Science undergradutate student at UFCG, and currently working as a developer(Clojure and react) student at NuFuturo, a project between NuBank and UFCG
+I'm Nícolas, a Computer Science undergradutate student at UFCG, and currently working as a Software Engineer at Alura
 
 - 🌱 I’m currently learning more about **Data Science, MongoDB, NLP, AI, Blockchain, Development, and much more**
 
 - 📫 How to reach me: **nicolas.leite@ccc.ufcg.edu.br**
 
-- 📄 Know about my experiences: [Linkedin Profile](https://www.linkedin.com/in/n%C3%ADcolas-moreira-nobre-leite-a869a81b0/)
+- 📄 Know about my experiences: [Linkedin Profile](https://www.linkedin.com/in/nicolasmnl/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
