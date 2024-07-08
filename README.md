@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋</h1>
-I'm Nícolas, a Computer Science undergradutate student at UFCG, and currently working as a Software Engineer at Alura
+I'm Nícolas, a Computer Scientist graduated at UFCG, and currently working as a Software Engineer at Alura, developing key educational solutions using technology!
 
 - 🌱 I’m currently learning more about **Data Science, MongoDB, NLP, AI, Blockchain, Development, and much more**
 
