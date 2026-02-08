@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋</h1>
-I'm Nícolas, a Computer Scientist graduated at UFCG, and currently working as a Software Engineer at Alura, developing key educational solutions using technology!
+I'm Nícolas, a Computer Scientist graduated at UFCG, and currently working as a Software Engineer at Amazon, developing key educational solutions using technology!
 
-- 🌱 I’m currently learning more about **Data Science, MongoDB, NLP, AI, Blockchain, Development, and much more**
+- 🌱 I’m currently learning more about **Scalability, Software Architecture, Data Science, MongoDB, NLP, AI, Development, and much more**
 
 - 📫 How to reach me: **nicolasmoreiranl@gmail.com**
 
